@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there! I"m Parker Harmon. 👋
 
+
+I'm currently, a senior at GVSU studying Computer Science. 
 <!--
 **parkerharmon/parkerharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
