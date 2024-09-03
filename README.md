@@ -1,4 +1,4 @@
-## Hi there! I"m Parker Harmon. 👋
+## Hi there! I'm Parker Harmon. 👋
 
 
 I'm currently, a senior at GVSU studying Computer Science. 
