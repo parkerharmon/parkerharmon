@@ -1,7 +1,7 @@
 ## Hi there! I'm Parker Harmon. 👋
 
 
-I'm currently, a senior at GVSU studying Computer Science. 
+I'm currently a senior at GVSU studying Computer Science and a web development intern at UFP Industries. 
 <!--
 **parkerharmon/parkerharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
